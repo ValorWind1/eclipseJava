@@ -41,6 +41,8 @@ public class HashMaps2 {
 		System.out.println(fun);
 		
 		
+		
+		
 	}
 
 }
